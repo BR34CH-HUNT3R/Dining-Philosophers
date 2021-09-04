@@ -1,1 +1,1 @@
-# Dining-Philosophers-Threads
+# Dining-Philosophers
